@@ -1,0 +1,31 @@
+header {
+    color:white;
+}
+
+li {
+    background-color: red;
+color:blue;
+}
+nav {
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    background-color: pink;
+
+}
+header {
+    height:600px;
+    width:100%;
+    background-image: url(https://image.freepik.com/free-photo/from-laptop-coffee_23-2147768814.jpg);
+    background-size: cover;
+    text-align: center;
+    line-height:150px;
+    font-family: 'Srisakdi', cursive;
+    font-size:32px;
+    monospace;
+        
+    }
+header p{
+    font-style:italic;
+}
